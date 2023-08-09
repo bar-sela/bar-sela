@@ -1,6 +1,6 @@
                                                  
 <p>
-  <h1 align="center">Hi 👋, I'm Nachshon</h1>
+  <h1 >Hi 👋, I'm Nachshon</h1>
 
 Reach me here: nbarsela@gmail.com.
   
