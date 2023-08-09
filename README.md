@@ -1,4 +1,4 @@
-                                                                 <h1> Hi, im Nachshon 👋 </h1>
+                                                                  Hi, im Nachshon 👋 
 
 <p>
 Reach me here: nbarsela@gmail.com.
