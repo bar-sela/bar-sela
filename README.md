@@ -1,6 +1,7 @@
-                                                     <h1 align="center">Hi 👋, I'm Nachshon</h1>
-
+                                                 
 <p>
+  <h1 align="center">Hi 👋, I'm Nachshon</h1>
+
 Reach me here: nbarsela@gmail.com.
   
 or here: https://www.linkedin.com/in/nbar-sela/
