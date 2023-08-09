@@ -1,4 +1,4 @@
-                           Hi, im Nachshon 👋 
+Hi, im Nachshon 👋 
 
 <p>
 Reach me here: nbarsela@gmail.com.
