@@ -4,7 +4,7 @@
 
 Reach me here: nbarsela@gmail.com.
   
-or here: https://www.linkedin.com/in/nbar-sela/
+or here: <i class="ci ci-linkedin ci-3x"></i>
 
 Languages and Tools:
 
