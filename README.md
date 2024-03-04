@@ -6,7 +6,7 @@
   <h1>Hi 👋, I'm Nachshon</h1>
 </div>
 
-## Reach me here:
+### Reach me here:
 [![My Skills](https://skills.thijs.gg/icons?i=gmail&theme=dark)](https://skills.thijs.gg)
 
 ### Connect with me:
@@ -15,7 +15,7 @@
   </a>
 
 
-# Languages and Tools:
+### Languages and Tools:
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,python,c,cpp,nodejs,javascript,typescript,react,mysql,mongodb,firebase&theme=dark)](https://skills.thijs.gg)
 
