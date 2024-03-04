@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nachshon</h1>
 
 ### Reach me here:
-[![My Skills](https://skills.thijs.gg/icons?i=gmail&theme=dark)](https://skills.thijs.gg) `nbarsela@gmail.com`
+ `nbarsela@gmail.com` [![My Skills](https://skills.thijs.gg/icons?i=gmail&theme=dark)](https://skills.thijs.gg)
 
 
 ### Connect with me:
