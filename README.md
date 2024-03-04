@@ -6,7 +6,7 @@
 </div>
 
 ### Reach me here:
-[![My Skills](https://skills.thijs.gg/icons?i=gmail&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=gmail&theme=dark)](https://skills.thijs.gg) Nbarsela@gmail.com
 
 ### Connect with me:
  <a href="https://www.linkedin.com/in/nbar-sela/">
