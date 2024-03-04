@@ -4,7 +4,7 @@
 
 Reach me here: nbarsela@gmail.com.
   
-or here: <i class="ci ci-linkedin ci-3x"></i>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 Languages and Tools:
 
