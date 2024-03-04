@@ -1,9 +1,8 @@
                                                  
 <p>
 
-# 
 <div style="text-align: center;">
-  <h1>                                                                     Hi 👋, I'm Nachshon</h1>
+  <h1>Hi 👋, I'm Nachshon</h1>
 </div>
 
 ### Reach me here:
