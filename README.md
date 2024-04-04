@@ -10,7 +10,7 @@
 ### Connect with me:
  <a href="https://www.linkedin.com/in/nbar-sela/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+ </a>
 
 
 ### Languages and Tools:
